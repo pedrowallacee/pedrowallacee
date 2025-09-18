@@ -83,12 +83,6 @@ Simulador em **Java** que recria uma carreira de jogador de futebol, com transfe
 
 ---
 
-#### 🗄️ SISDEPEN
-[**SisdepenApp**](https://github.com/pedrowallacee/sisdepen-app)  
-Aplicação para gestão de informações do sistema penitenciário, utilizando **Spring Boot + PostgreSQL + GraphQL**.
-
----
-
 ⭐ Se gostou do meu trabalho, não esqueça de deixar uma estrela nos repositórios! ⭐
 ```eof
 
