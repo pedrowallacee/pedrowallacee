@@ -20,7 +20,16 @@ Atualmente, aprimoro minhas habilidades no curso de **Análise e Desenvolvimento
   <br/>
   
   <details>
-    <summary>📑 Linguagens de Programação</summary>
+    <summary>📝 Linguagens de Marcação e Estilo</summary>
+    <br/>
+    <p align="left">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    </p>
+  </details>
+
+  <details>
+    <summary>💻 Linguagens de Programação</summary>
     <br/>
     <p align="left">
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -30,7 +39,7 @@ Atualmente, aprimoro minhas habilidades no curso de **Análise e Desenvolvimento
   </details>
   
   <details>
-    <summary>⚙️ Frameworks e Tecnologias</summary>
+    <summary>⚙️ Frameworks e Bibliotecas</summary>
     <br/>
     <p align="left">
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
@@ -42,16 +51,33 @@ Atualmente, aprimoro minhas habilidades no curso de **Análise e Desenvolvimento
   </details>
   
   <details>
-    <summary>🗄️ Banco de Dados</summary>
+    <summary>🗄️ Bancos de Dados</summary>
     <br/>
     <p align="left">
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
     </p>
   </details>
+  
+  <details>
+    <summary>☁️ Cloud & Deploy</summary>
+    <br/>
+    <p align="left">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    </p>
+  </details>
 
   <details>
-    <summary>🔧 Ferramentas de Desenvolvimento</summary>
+    <summary>💻 Sistemas Operacionais</summary>
+    <br/>
+    <p align="left">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+    </p>
+  </details>
+
+  <details>
+    <summary>🛠️ Ferramentas de Desenvolvimento</summary>
     <br/>
     <p align="left">
       <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -85,11 +111,3 @@ Simulador em **Java** que recria uma carreira de jogador de futebol, com transfe
 
 ⭐ Se gostou do meu trabalho, não esqueça de deixar uma estrela nos repositórios! ⭐
 ```eof
-
-### O que mudou?
-
-* **Habilidades Interativas:** A seção "Habilidades Técnicas" agora é um menu que pode ser aberto e fechado. Dentro dele, cada categoria de habilidade também é um submenu.
-* **Código HTML:** Para criar esse efeito, o arquivo `README.md` agora usa tags HTML como `<details>` e `<summary>`. O GitHub renderiza isso perfeitamente.
-* **Visual Limpo:** As habilidades ficam escondidas por padrão, deixando seu perfil mais limpo e focado na sua apresentação inicial.
-
-O resultado final ficará bem parecido com o perfil que você usou como inspiração!
