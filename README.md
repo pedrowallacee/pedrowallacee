@@ -90,8 +90,12 @@ Simulador robusto em **Java** que recria a complexidade de uma carreira de jogad
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrowallacee&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowallacee&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=pedrowallacee&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" height="150" alt="stats graph" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowallacee&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="150" alt="languages graph" />
+  </a>
 </div>
 
 ---
