@@ -76,7 +76,7 @@ Atualmente, curso **Análise e Desenvolvimento de Sistemas (Uniceplac)** e foco 
 
 #### 🪐 [3D Digital Architect Portfolio](https://portfolio-pedrowallace.vercel.app/)
 > **[Ver Repositório](https://github.com/pedrowallacee/portfolio_pedrowallace)**
-Portfólio interativo e imersivo com tema espacial ("Veigh Tour Evom"). Apresenta um planeta procedural 3D, iluminação volumétrica, pós-processamento (Bloom/Noise) e animações fluidas.
+Portfólio interativo e imersivo com tema espacial. Apresenta um planeta procedural 3D, iluminação volumétrica, pós-processamento (Bloom/Noise) e animações fluidas.
 * **Techs:** Next.js 14, TypeScript, React Three Fiber, Drei, Tailwind CSS.
 * **Destaque:** Renderização 3D performática e design responsivo cinematográfico.
 
